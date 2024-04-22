@@ -14,8 +14,8 @@ function App() {
       <section>
         <Header />
         <Routes>
-          {/* <Route path="/" element={<Home />} />
-          <Route path="/Repositories" element={<Repositories/>} /> */}
+          <Route path="/" element={<Home />} />
+          <Route path="/Repositories" element={<Repositories/>} />
         </Routes>
       </section>
     </>
